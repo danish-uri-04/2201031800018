@@ -1,0 +1,319 @@
+.makiarrow4 {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.desktop-1-child2 {
+  width: 153px;
+  height: 80px;
+  position: relative;
+  background-color: var(--color-lime);
+  display: none;
+}
+.icoutline-home4 {
+  width: 51px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.farma4,
+.tolk4 {
+  margin: 0;
+}
+.tolk4 {
+  white-space: pre-wrap;
+}
+.farma-tolk-txt-container4 {
+  width: 100%;
+}
+.farma-tolk4 {
+  margin: 0;
+  height: 221px;
+  width: 391px;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  display: flex;
+  font-style: italic;
+  font-weight: 600;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.vector-icon4 {
+  height: 29.8px;
+  width: 42.5px;
+  position: relative;
+  z-index: 2;
+}
+.vector-frame {
+  height: 29.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-29xl-5) 0 var(--padding-30xl);
+  box-sizing: border-box;
+}
+.home4 {
+  align-self: stretch;
+  height: 29px;
+  position: relative;
+  line-height: 90px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent11,
+.frame-wrapper7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 4.199999999999989px;
+}
+.frame-wrapper7 {
+  width: 140px;
+  align-items: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-child5 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lime);
+  width: 149px;
+  display: none;
+}
+.about4 {
+  position: absolute;
+  top: 42px;
+  left: 5px;
+  line-height: 90px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 29px;
+  z-index: 1;
+}
+.mdiabout-variant-icon4 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  width: 59px;
+  height: 46px;
+  overflow: hidden;
+  z-index: 2;
+}
+.frame-child6,
+.rectangle-parent5 {
+  height: 80px;
+  width: 169px;
+  position: relative;
+  background-color: var(--color-lime);
+}
+.frame-child6 {
+  width: 195px;
+  background-color: var(--color-black);
+  display: none;
+}
+.mdicart-icon4 {
+  height: 37px;
+  width: 45px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.mdicart-wrapper2 {
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-38xl) 0 var(--padding-37xl);
+  box-sizing: border-box;
+}
+.my-cart5 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 90px;
+  display: flex;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs) var(--padding-lg) var(--padding-10xs)
+    var(--padding-lgi);
+  background-color: var(--color-black);
+  flex: 0.8103;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile4 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  line-height: 90px;
+  display: flex;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 29px;
+  z-index: 1;
+}
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lime);
+  width: 100%;
+  height: 100%;
+}
+.iconamoonprofile-fill4 {
+  position: absolute;
+  top: 6px;
+  left: 25px;
+  width: 47px;
+  height: 40px;
+  overflow: hidden;
+  z-index: 2;
+}
+.rectangle-parent7 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 18px;
+  width: 169px;
+}
+.profile-container {
+  align-self: stretch;
+  height: 77px;
+  position: relative;
+}
+.frame-wrapper8 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs);
+}
+.frame-parent12 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+  max-width: 100%;
+}
+.f-r-a-m-e,
+.frame-parent10,
+.home-label {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent10 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-56xl);
+}
+.f-r-a-m-e,
+.home-label {
+  width: 838px;
+  flex-direction: column;
+  padding: var(--padding-37xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+}
+.f-r-a-m-e {
+  width: 1426px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+.sddefault-1-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.desktop-13,
+.desktop-5 {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.desktop-13 {
+  flex: 1;
+  background-color: var(--color-lime);
+  flex-direction: column;
+  max-width: 100%;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  flex-direction: row;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 850px) {
+  .frame-parent10 {
+    gap: 75px 37px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .frame-parent12 {
+    gap: 36px 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent10 {
+    gap: 75px 19px;
+  }
+}
